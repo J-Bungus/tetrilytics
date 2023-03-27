@@ -19,6 +19,7 @@ const RankStats = ({ playerData }) => {
         "c-": [],
         "d+": [],
         "d": [],
+        "z": []
     }
 
     let avgStats = {
@@ -39,6 +40,7 @@ const RankStats = ({ playerData }) => {
         "c-": [],
         "d+": [],
         "d": [],
+        "z": [],
     }
 
     let totalAPM = 0;

@@ -296,6 +296,9 @@ th {
   margin: 1em 0;
   padding: 1em;
   border: 1px solid #ccc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .rank-distribution {
