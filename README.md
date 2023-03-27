@@ -1,4 +1,4 @@
-# tetrilytics
+# Tetrilytics
 
 For the tens of thousands of players that play of Tetrio in any given moment, there has never been an effective way of checking the statistics of the player base. For those who wanted to know what the average winrate at S rank is, they would not be able to figure it out. Those who wanted to know the PPS or the APM of players in U rank, they would have no way of knowing either.
 
